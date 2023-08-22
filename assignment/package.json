@@ -1,0 +1,15 @@
+{
+  "name": "inventory-api-assign",
+  "version": "1.0.0",
+  "description": "My first assignment was already done on a different file. I had to push the both of them differently.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "victor nkwuo",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "devDependencies": {}
+}
